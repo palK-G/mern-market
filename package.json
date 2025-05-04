@@ -1,0 +1,40 @@
+{
+  "name": "mern-marketplace",
+  "version": "1.0.0",
+  "description": "Got tired of fighting with SequelPro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanszymkowicz/mern-marketplace.git"
+  },
+  "author": "evanszymkowicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanszymkowicz/mern-marketplace/issues"
+  },
+  "homepage": "https://github.com/evanszymkowicz/mern-marketplace#readme",
+  "devDependencies": {
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "eslint": "^6.4.0",
+    "eslint-plugin-react": "^7.14.3",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "helmet": "^3.21.0",
+    "mongoose": "^5.7.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-hot-loader": "^4.12.13",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "webpack": "^4.40.2"
+  }
+}
