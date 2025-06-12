@@ -39,5 +39,6 @@ const OrderSchema = new mongoose.Schema({
 });
 
 const Order = mongoose.model("Order", OrderSchema);
+const Test = 'test';
 
 export { Order, CartItem };
